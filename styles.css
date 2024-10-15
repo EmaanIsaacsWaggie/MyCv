@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5dc; /* Beige */
+}
+
+header {
+    text-align: center;
+    background: #b2e0b2; /* Pastel Green */
+    color: #333; /* Dark gray for readability */
+    padding: 20px;
+}
+
+.profile-photo {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin: 10px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+p, li {
+    color: #333; /* Dark gray for readability */
+}
+
+section {
+    background: #ffffff; /* White for contrast */
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #b2e0b2; /* Pastel Green for headings */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #777; /* Light gray */
+}
+
+a {
+    color: #b2e0b2; /* Pastel Green for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
